@@ -11,6 +11,7 @@
 
 ## 0.0.1 (28.05.2024)
 
+- [reliase] - Возможность запуска игры через npm run start ([be141f6](https://github.com/avdiyenkosa/Guessing-game/commit/be141f6a3846e251d79c4ee075275f14996a1b9e))
 - [test] - Добавлены тесты на все классы движка игры ([4dc9e0c](https://github.com/avdiyenkosa/Guessing-game/commit/4dc9e0c09f66df53e1019044ba754de9b041450d))
 - [add] - Добавлен Babbel. Для использования CommonJS синтаксиса в тестах ([b7f88aa](https://github.com/avdiyenkosa/Guessing-game/commit/b7f88aa74ca64a59fd1a4e809c154cac39975d51))
 - [add] - Добавлена библиотека Jest для тестирования кода. Дефолтный конфиг ([2b697b7](https://github.com/avdiyenkosa/Guessing-game/commit/2b697b7a589cd42b98fed08e92dab53605421de1))

@@ -1,0 +1,26 @@
+{
+  "name": "guessing-game",
+  "version": "0.0.1",
+  "description": "Игра в \"Угадайка\". Для примера составления дизайна приложения ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avdiyenkosa/Guessing-game.git"
+  },
+  "keywords": [
+    "OOP",
+    "Design"
+  ],
+  "author": "AvdienkoSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avdiyenkosa/Guessing-game/issues"
+  },
+  "homepage": "https://github.com/avdiyenkosa/Guessing-game#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

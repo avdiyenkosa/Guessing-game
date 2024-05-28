@@ -11,4 +11,5 @@
 
 ## 0.0.1 (28.05.2024)
 
+- [docs] - Добавлен файл CHANGELOG для отслеживания важных изменений по проекту ([8123b1b](https://github.com/avdiyenkosa/Guessing-game/commit/8123b1b8e727a89e3fee19a5ea9b49f982db3366))
 - [feat] - Добавлен движок игры "Угадайка" ([4d8a922](https://github.com/avdiyenkosa/Guessing-game/commit/4d8a92265212f46e599a8cde6e9d5830d9de232a))

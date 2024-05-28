@@ -12,9 +12,9 @@ class Attempts {
     return this.#diff.toString().then((diff) => {
       const result = {
         isWinner: diff == 0,
-        isRaund: this.#count < this.#max,
+        isRound: this.#count < this.#max,
       };
-      if (!result.isWinner && result.isRaund) {
+      if (!result.isWinner && result.isRound) {
         this.#count++;
       }
       return result;

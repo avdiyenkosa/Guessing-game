@@ -7,7 +7,7 @@ class Game {
 
   start() {
     this.#attempts.matches().then((result) => {
-      result.isRaund ? this.start() : this.#stop(result);
+      result.isRound ? this.start() : this.#stop(result);
       return;
     });
   }

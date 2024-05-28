@@ -4,7 +4,7 @@
   "description": "Игра в \"Угадайка\". Для примера составления дизайна приложения ",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --detectOpenHandles"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.24.6",
     "babel-jest": "^29.7.0",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-mock-process": "^2.0.0"
   }
 }

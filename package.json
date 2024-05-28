@@ -4,7 +4,8 @@
   "description": "Игра в \"Угадайка\". Для примера составления дизайна приложения ",
   "main": "index.js",
   "scripts": {
-    "test": "jest --detectOpenHandles"
+    "start": "node index.mjs",
+    "test": "jest --detectOpenHandles --forceExit"
   },
   "repository": {
     "type": "git",

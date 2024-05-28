@@ -11,6 +11,7 @@
 
 ## 0.0.1 (28.05.2024)
 
+- [test] - Добавлены тесты на все классы движка игры ([4dc9e0c](https://github.com/avdiyenkosa/Guessing-game/commit/4dc9e0c09f66df53e1019044ba754de9b041450d))
 - [add] - Добавлен Babbel. Для использования CommonJS синтаксиса в тестах ([b7f88aa](https://github.com/avdiyenkosa/Guessing-game/commit/b7f88aa74ca64a59fd1a4e809c154cac39975d51))
 - [add] - Добавлена библиотека Jest для тестирования кода. Дефолтный конфиг ([2b697b7](https://github.com/avdiyenkosa/Guessing-game/commit/2b697b7a589cd42b98fed08e92dab53605421de1))
 - [docs] - Добавлен файл CHANGELOG для отслеживания важных изменений по проекту ([8123b1b](https://github.com/avdiyenkosa/Guessing-game/commit/8123b1b8e727a89e3fee19a5ea9b49f982db3366))
